@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @271109553ly-creator
+/src/backend/database.py      @271109553ly-creator
+/src/backend/routers/auth.py  @271109553ly-creator
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @271109553ly-creator
